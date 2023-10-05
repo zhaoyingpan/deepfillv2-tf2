@@ -4,7 +4,7 @@ import argparse
 
 import cv2
 import numpy as np
-import tensorflow as tf
+import tensorflow.compat.v1 as tf
 import neuralgym as ng
 
 from inpaint_model import InpaintCAModel

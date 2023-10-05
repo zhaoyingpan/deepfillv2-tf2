@@ -1,3 +1,5 @@
 model_logs
 logs
 data
+__pycache__
+release_places2_256_deepfill_v2
