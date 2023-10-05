@@ -1,3 +1,3 @@
-Please see the original repo for DeepFillv2.
+Please see the original repo for [DeepFillv2](https://github.com/JiahuiYu/generative_inpainting).
 
-This repo edits several files to support inference with tensorflow 2 (didn't try training).
+This repo edits several files to support inference with tensorflow 2 (didn't try training). I also provide [neuralgym](https://github.com/zhaoyingpan/neuralgym-tf2) that supports tensorflow2, a necessary package for deepfill v2. See the original repo of [neuralgym](https://github.com/JiahuiYu/neuralgym)
